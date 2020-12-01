@@ -1,0 +1,27 @@
+
+One day, a man came running up to Birbal and fell at his feet saying, “Sir, someone has stolen all my money.” 
+
+Birbal saw how upset the poor man was but he asked, “You are wearing dirty clothes. You look poor, then how can you have money?” 
+
+The man said, “Sir, I work very hard in the gardens of the Emperor so that I can save money for my old age, as I have no one to look after me. Tell me where the money was kept, “asked Birbal. “As I work in the gardens of the king, I dug a hole under a pear tree and kept all my money there. Birbal thought, “The money was in the hole under a pear tree. I won’t help you if you act so carelessly again.”
+
+Birbal summoned all the doctors of the city and asked them about the benefits of the pear tree. ” 
+
+But one doctor replied, “The fruits and leaves do not help us but the roots have medicinal value.” 
+
+Birbal asked, “Have you used the roots of the pear tree for any medicine?” 
+
+The doctor replied, “Yes, My. The man came and Birbal asked, “Has this doctor been treating you?” 
+
+“Yes Sir, and I am well because of the wonderful medicine he made from the roots of the pear tree, “said the man. “From where did you get the roots for the medicine?” asked Birbal. “I sent my servant to get it, Sir, “said the man. So Birbal ordered him to get the servant. The man left at once and came back with the servant. l brought the roots of the pear tree for the medicine, “said the servant. “Where was the tree?” asked Birbal. “In the king’s garden,” said the man. “Give me a thousand coins at once that you found while digging for the roots under the pear tree,” said Birbal. I have stolen the bag of gold coins and that was a wrong thing to do. You had stolen the money and that was wrong. Since you have confessed, I forgive you.” 
+
+The servant ran to get the money and soon gave the bag of thousand gold coins to Birbal. Then Birbal gave five gold coins to the servant and said, “You can keep these coins for speaking the truth.” 
+
+The servant fell at Birbal’s feet and said, “Thank you so much, My Lord.
+
+Number of words in input file: 625
+Number of words in output file: 398
+Number of sentences in input file: 41
+Number of sentences in output file: 20
+Percentage of output words to input words: 63.68%
+Percentage time saved: 36.32%

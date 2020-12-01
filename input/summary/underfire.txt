@@ -1,0 +1,27 @@
+
+The clever and kind Birbal was liked a lot by most of the people in Akbar’s court. If you help us, we will give you a lot of money.” 
+
+The barber was a greedy man so he agreed to do what the two men wanted. He said to Akbar, “Your Majesty, wonder how your ancestors are. The barber said, “Your Majesty, you can send someone from here to find out about their well being.” 
+
+“But how can I send anyone to heaven?” asked Akbar. The man will go straight to heaven with the smoke.” 
+
+“But whom can I send?” asked Akbar, beginning to sense something fishy. He is the cleverest of us all and will do the best job,” said the barber. Akbar knew that Birbal had some enemies but he trusted Birbal to find a solution to this problem too. So Akbar called Birbal to the court and said, “Birbal, you have to go to heaven to see if my ancestors need anything.” 
+
+Birbal said, “This is an excellent idea. You have thought well, Your Majesty.” 
+
+“No Birbal, this is the idea of my clever barber,” said Akbar.Birbal understood and decided to teach the barber lesson. Birbal said, “Your Majesty, I will certainly go to heaven. Akbar ordered for a thousand bundles of hay to be collected on a field, which would be burnt to send Birbal to heaven. Birbal asked some trusted men to dig a secret tunnel under the ground from the place where the hay was kept to his house, within seven days. On the fixed day, people gathered to see Birbal go to heaven. Birbal went and stood on the pile of hay. His enemies rejoiced for they were happy to get rid of the clever Birbal. After six months, Birbal left his house and went to the Emperor’s court. All your ancestors want you to do something about it,” said Birbal. “They want a barber to be sent to cut their hair and give them a shave,” said Birbal. Birbal said, “Your Majesty, your barber would be the best to send.” 
+
+Akbar ordered the royal barber to be burnt with hay just as Birbal. See I have come back from heaven.” 
+
+The barber said, “I don’t know how you came back but I will certainly be burnt to death. My Lord, I was forced to do this by Birbal’s enemies.” 
+
+Akbar was very angry and said, “No one can force a person to do anything bad. I think you just did all this for money.” 
+
+Akbar then punished the two courtiers and the barber.
+
+Number of words in input file: 725
+Number of words in output file: 430
+Number of sentences in input file: 52
+Number of sentences in output file: 22
+Percentage of output words to input words: 59.31%
+Percentage time saved: 40.69%

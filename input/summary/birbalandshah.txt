@@ -1,0 +1,15 @@
+
+People who had been to Agra, told the Shah of Persia, many stories about the great Emperor Akbar and his minister, Birbal. The Shah of Persia was eager to meet Birbal and test him to see if he was clever.So the Shah sent a man to invite Birbal to Persia. As Persia was far from Agra, the messenger took many months to reach Akbar’s court. The next day he was invited to meet the Shah. The man with Birbal said, “Go and meet the Shah of Persia.” 
+
+Birbal knew that he had to bow before the Shah and offer his respects but he had never seen the Shah before. How could he recognize the Shah as all the five men were dressed alike? Great Shah of Persia! Have I guessed correctly that out of the five, you are the Shah of Persia?”“Yes Birbal, you have guessed correctly. I am the real Shah of Persia. When I was looking at you, all these other four men looked at you to see your reaction as the subjects always look up to their king for everything. They looked at you wondering as to what you were thinking. So I knew that you are the real Shah of Persia.” 
+
+“Birbal, you are very clever,” said the Shah of Persia.”I am so glad to meet you. Well done Birbal.” 
+
+The Shah of Persia then honored Birbal with the title,’Ocean of Intelligence’, for being so clever and also presented him many gifts when Birbal returned to Akbar’s court.
+
+Number of words in input file: 442
+Number of words in output file: 252
+Number of sentences in input file: 32
+Number of sentences in output file: 13
+Percentage of output words to input words: 57.01%
+Percentage time saved: 42.99%

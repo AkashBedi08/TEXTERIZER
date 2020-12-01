@@ -1,0 +1,29 @@
+
+The list was prepared within a day and given to Akbar, 
+
+Akbar said, “I think the courtiers could prepare the list so soon because there are very few blind people in our city.” 
+
+Birbal said, “But, Your Majesty, I have to say one thing. More than the blind people, many people have eyesight, yet cannot see.” 
+
+Akbar did not believe him, so Birbal said, “I will prove myself right in a few days.” 
+
+After some days, Birbal sat on the roadside stringing jute ropes on a cot. Two men, passing by, asked him, “What are you doing, Birbal?” Birbal had a clerk standing next to him, He said, “Start writing one, two.”
+
+The clerk wrote as asked. As Birbal continued stringing the cot, more people asked, “What are you doing?” and Birbal continued his counting, “Eighty-one, eighty-two, eighty-three.” 
+
+Soon this news reached the palace and Akbar too came to see for himself, what Birbal was up to. He could not understand why Birbal was doing this, so he also asked, “Birbal, what are you doing?” 
+
+Birbal did not look at Akbar. He went on stringing the cot and spoke out, “Two hundred and fifty.” 
+
+Birbal stopped stringing the cot and took the paper with the numbers from the clerk and gave it to Akbar saying, “Your Highness, I had promised that I will give you the list of people who had eyes but could not see. Each of these people could see me stringing the jute in broad daylight, yet asked me what I was doing.”
+
+Akbar said “That is good. You were the last one to come and ask me what I was doing.” 
+
+Akbar laughed saying, “Very true, Birbal.
+
+Number of words in input file: 379
+Number of words in output file: 279
+Number of sentences in input file: 16
+Number of sentences in output file: 8
+Percentage of output words to input words: 73.61%
+Percentage time saved: 26.39%

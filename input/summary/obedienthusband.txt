@@ -1,0 +1,21 @@
+
+Go away and come back only when you have proved your worth.” 
+
+Akbar and Birbal saw that the wife was short and thin but the husband was tall and strong. Akbar asked, “Why doesn’t the husband shout back at his wife?” 
+
+Birbal said, “The husband has to listen without shouting back. This is the real truth of marriage.” 
+
+The next day when the courtiers came into the court, Akbar told them, “All the married men come in front and all those, who are not married, stay behind.” 
+
+All the married men stepped forward.Akbar then said, “All right. Now all the husbands who listen to their wives should step to my right. Those who don’t obey their wives should step to my left.” 
+
+Akbar was shocked when all, but one man moved towards their right. Why did you not join the others?” 
+
+“Sir, I was about to go with the others and then I remembered that my wife had told me not to go with the crowd. All right, I believe you, Birbal.
+
+Number of words in input file: 316
+Number of words in output file: 172
+Number of sentences in input file: 19
+Number of sentences in output file: 7
+Percentage of output words to input words: 54.43%
+Percentage time saved: 45.57%

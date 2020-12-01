@@ -1,0 +1,33 @@
+
+He shouted, “Birbal, My Lord, please save me or the Emperor will have me killed. Please save me, Sir!”Birbal said, “Ali, tell me what is the problem and I will try to help you.” 
+
+The servant said, “Some time back, a holy man had gifted a parrot to the Emperor. the parrot is dead.” 
+
+“How did it die?” asked Birbal. Ali said, ” I don’t know, Sir. I looked after it very well but when I got up in the morning, it was already dead.” 
+
+Birbal promised, “Ali, I will see to it that you are not hanged for this.” 
+
+Birbal went to Akbar and said, “Your Majesty, do you remember the parrot a holy man had given you?” 
+
+Akbar said, “Of course, Birbal. I told my trusted servant, Ali to look after the parrot. But why are you asking me about the parrot?” 
+
+Birbal said, “Oh! It is holy too.” 
+
+Surprised, Akbar asked, “Birbal, how can a parrot be holy and great?” 
+
+Birbal said, “Yes, My Lord, The parrot is lying in a state of meditation. It is thinking and not doing anything else.” 
+
+Akbar said, “I want to see that parrot at once.”They all walked to Ali’s house where the parrot was lying motionless. Akbar looked at it and said, “What foolishness is this Birbal? It is dead, isn’t it?”Birbal bowed, “Please forgive me for this, My Lord. I had seen that the parrot was dead but I was afraid.” 
+
+Akbar said, “Birbal! Why?” 
+
+Birbal said, “My Lord. You had said that the person who gave the news of the parrot’s death would be sentenced to death. I know that I can trust you.” 
+
+When Ali found Birbal alone, Ali said, “Oh, My Lord!
+
+Number of words in input file: 458
+Number of words in output file: 286
+Number of sentences in input file: 40
+Number of sentences in output file: 15
+Percentage of output words to input words: 62.45%
+Percentage time saved: 37.55%

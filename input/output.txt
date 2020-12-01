@@ -1,0 +1,102 @@
+===============
+Filename : 1233.txt
+Input words : 667
+Output words : 462
+Input sentences : 34
+Ouptut sentences : 15
+Output to input % : 69.27
+% time saved : 30.73
+===============
+
+===============
+Filename : akbarempire.txt
+Input words : 547
+Output words : 354
+Input sentences : 39
+Ouptut sentences : 17
+Output to input % : 64.72
+% time saved : 35.28
+===============
+
+===============
+Filename : allforaparrot.txt
+Input words : 458
+Output words : 286
+Input sentences : 40
+Ouptut sentences : 15
+Output to input % : 62.45
+% time saved : 37.55
+===============
+
+===============
+Filename : asb.txt
+Input words : 516
+Output words : 305
+Input sentences : 34
+Ouptut sentences : 16
+Output to input % : 59.11
+% time saved : 40.89
+===============
+
+===============
+Filename : birbalandshah.txt
+Input words : 442
+Output words : 252
+Input sentences : 32
+Ouptut sentences : 13
+Output to input % : 57.01
+% time saved : 42.99
+===============
+
+===============
+Filename : blindeyes.txt
+Input words : 379
+Output words : 279
+Input sentences : 16
+Ouptut sentences : 8
+Output to input % : 73.61
+% time saved : 26.39
+===============
+
+===============
+Filename : motheradnchild.txt
+Input words : 667
+Output words : 462
+Input sentences : 34
+Ouptut sentences : 15
+Output to input % : 69.27
+% time saved : 30.73
+===============
+
+===============
+Filename : obedienthusband.txt
+Input words : 316
+Output words : 172
+Input sentences : 19
+Ouptut sentences : 7
+Output to input % : 54.43
+% time saved : 45.57
+===============
+
+===============
+Filename : rootoftheproblem.txt
+Input words : 625
+Output words : 398
+Input sentences : 41
+Ouptut sentences : 20
+Output to input % : 63.68
+% time saved : 36.32
+===============
+
+===============
+Filename : underfire.txt
+Input words : 725
+Output words : 430
+Input sentences : 52
+Ouptut sentences : 22
+Output to input % : 59.31
+% time saved : 40.69
+===============
+
+
+Average time saved in %: 36.714

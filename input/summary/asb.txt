@@ -1,0 +1,19 @@
+
+One day, Emperor Akbar got angry with Birbal over something and told him to leave his court and never come back. So he ordered that Birbal should be called back to the court. He must be hiding in some far off village.” 
+
+So one day, he thought of a plan to get Birbal back. He called all his messengers and told them to go to all the village chiefs around Agra and tell them to reach Agra within fifteen days. Akbar said, “But tell all the chiefs that on the way to Agra, they have to walk partly in the sun and partly in the shade.” 
+
+The chiefs found the order strange but none could defy the king’s orders. So wherever there were ropes, there was shade and through the gaps, the sun was shining on the man. Akbar asked his courtiers to bring that man to him. The man is a friend’s friend and has recently come to stay with him.” 
+
+Akbar knew that Birbal was the only one who could have thought of this. Akbar said,’Tell that stranger to come and see me at once. By the way, what is the stranger’s name?” 
+
+The village chief said, “His name is Birbal but he won’t come. He was saying that you are angry with him.” 
+
+“I have pardoned Birbal and I am no longer angry with him. Tell him that he must come back at once to Agra. I am waiting for him to come back to the court as soon as possible,” said Akbar. When the village chief reached his village, he told Birbal what the Emperor had said. Birbal was happy to know that Akbar was no longer angry with him. When Birbal came back to Agra, Akbar welcomed Birbal and said, “Birbal, see I have got you out of your hiding.
+
+Number of words in input file: 516
+Number of words in output file: 305
+Number of sentences in input file: 34
+Number of sentences in output file: 16
+Percentage of output words to input words: 59.11%
+Percentage time saved: 40.89%
